@@ -38,8 +38,8 @@ main {
 
 .play {
     transform: scale(1.1);
-    border-color:yellow;
-    box-shadow: 0 0 10px yellow;
+    border-color:red;
+    box-shadow: 0 0 10px red;
 }
 
 kbd {
